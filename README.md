@@ -1,6 +1,6 @@
-# JWT Authentication System
+# JWT Authentication System With File Uploading Function And Weather APIs
 
-A complete JWT authentication system built with Next.js, featuring secure token handling, user registration/login, and protected routes.
+A complete JWT authentication system built with Next.js, featuring secure token handling, user registration/login, and protected routes.Also Add File upload facility and weather APIs integrated.
 
 ## Features
 
